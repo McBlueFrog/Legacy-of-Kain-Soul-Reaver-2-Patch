@@ -1,6 +1,12 @@
 Hi from the MOG [Medkit for Old Games] team ^^
 
 ////////////
+Download:
+
+1. DirectX8to9 from https://github.com/crosire/d3d8to9
+2. OPTIONAL reshade from https://reshade.me
+
+
 How to patch:
 
 1. Copy the contents of "PatchFiles" to the main folder where the "sr2.exe" is
