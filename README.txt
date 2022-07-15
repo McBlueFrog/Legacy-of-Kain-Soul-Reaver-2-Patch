@@ -9,7 +9,7 @@ Download:
 
 How to patch:
 
-1. Copy the contents of "PatchFiles" to the main folder where the "sr2.exe" is
+1. Copy the contents of "PatchFiles" and the "DX8to9" to the main folder where the "sr2.exe" is
 2. Run the "OpenSetup.bat"
 3. Check the "Disable Opening FMA" 
 4. OPTIONAL Set the desired resolution also the bitDepth
