@@ -1,6 +1,5 @@
 Hi from the MOG [Medkit for Old Games] team ^^
 
-////////////
 Download:
 
 1. DirectX8to9 from https://github.com/crosire/d3d8to9
@@ -17,7 +16,6 @@ How to patch:
 6. OPTIONAL Start Reshade and set it up for "sr2_original.exe" choose DirectX9 for further instructions visit their website
 7. Start the game from steam or by starting "sr2.exe" 
 8. Enjoy this amazing game! ^^
-////////////
 
 This patch containt various small/big patches for Legacy of Kain: Soulreaver 2
 
