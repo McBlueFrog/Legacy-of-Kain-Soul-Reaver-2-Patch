@@ -5,7 +5,7 @@ Download:
 
 1. DirectX8to9 from https://github.com/crosire/d3d8to9
 2. OPTIONAL reshade from https://reshade.me
-
+3. Patches from https://github.com/McBlueFrog/Legacy-of-Kain-Soul-Reaver-2-Patch/releases/tag/patch
 
 How to patch:
 
