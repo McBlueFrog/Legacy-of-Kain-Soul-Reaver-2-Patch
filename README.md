@@ -1,5 +1,3 @@
-Hi from the MOG [Medkit for Old Games] team ^^
-
 Download:
 
 1. DirectX8to9 from https://github.com/crosire/d3d8to9
