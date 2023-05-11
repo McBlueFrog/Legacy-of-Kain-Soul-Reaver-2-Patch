@@ -19,8 +19,8 @@ This patch containt various small/big patches for Legacy of Kain: Soulreaver 2
 
 -DirectX8to9 by (https://github.com/crosire/d3d8to9)
 -Reshade by (https://reshade.me)
--Fix for Opening by us
--Single Core Fix by us
--Steam Fix by us
+-Fix for Opening by me
+-Single Core Fix by me
+-Steam Fix by me
 
 And Thank you so much!
